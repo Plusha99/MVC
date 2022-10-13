@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "puO53jSc9VxykPX2xKSvYtnujIPEeu5ZAHfpREU6Il4meu3XxfjTrX4vrqebP+XNBsXt+/cIiSfKEUbURG4csw==",
+  "dgSpecHash": "/F+r6peIfMedFcWU3Ih6ckOIXsmWqywdmDDKSKc7v2k2ramSRxU0APQyNCMxc1TmR/oflvOqO00bpAI7+WIU3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilia1\\source\\repos\\BankTransactions\\BankTransactions\\BankTransactions.csproj",
+  "projectFilePath": "C:\\Users\\ilia1\\source\\repos\\MVC\\BankTransactions\\BankTransactions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilia1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ilia1\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

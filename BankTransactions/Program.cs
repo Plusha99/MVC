@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-//Внедрение DbContext
+// DbContext
 builder.Services.AddDbContext<TransactionDBContext>(options=>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
 
